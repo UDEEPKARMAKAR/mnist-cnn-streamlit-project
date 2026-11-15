@@ -36,7 +36,7 @@ streamlit run YourName_CNN_Streamlit_Project.py   # launches the app
 The notebook can also be run on Kaggle or Google Colab.
 
 ## Report
-See `report/CNN_Streamlit_Project_Report.pdf`.
+See `report/Minor project report(Minor project 7)`.
 
 ## Author
-Your Name - Batch XX
+Udeep Karmakar
