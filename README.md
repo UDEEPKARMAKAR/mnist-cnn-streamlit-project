@@ -21,7 +21,6 @@ Two Conv2D + MaxPooling blocks, Dropout (0.3), Dense(128) and a Dense(10) softma
 Takes name, age, gender, height, weight and activity level. It returns BMI, BMI category,
 daily calorie estimate (Mifflin-St Jeor) and a health tip. Unrealistic inputs show an error.
 
-![App result](screenshots/app_result.png)
 
 ## Dataset
 [MNIST in CSV (Kaggle)](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv):
